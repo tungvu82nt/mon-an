@@ -1,0 +1,7 @@
+{
+  "name": "FoodFinder",
+  "description": "A modern, mobile-first food delivery application connecting users with local culinary gems.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
